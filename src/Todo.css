@@ -1,0 +1,10 @@
+.todo__list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.todo__list > h2 {
+  padding-right: 20px;
+}
